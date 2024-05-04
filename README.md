@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**Riwibou/riwibou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Riwan William BOUOULI, a Full Stack Developer with a passion for music, foreign languages, and JavaScript and its frameworks and libraries.
 
-Here are some ideas to get you started:
+🌱 Currently learning and exploring new technologies in the JS eco-system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Looking to collaborate on interesting projects that challenge me and expand my skills.
+
+💬 Feel free to ask me about anything related to web development, JavaScript, or my hobbies.
+
+📫 You can reach me at riwan.b@live.fr or on [GitHub](https://github.com/Riwibou).
+
+😄 Fun fact: I love playing the piano in my free time and exploring new places while traveling.
+
+⚡ Let's connect and create something awesome together!
