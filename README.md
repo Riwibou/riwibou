@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
-I'm Riwan William BOUOULI, a Full Stack Developer with a passion for music, foreign languages, and JavaScript and its frameworks and libraries.
+I'm Riwan William BOUOULI, 
+a French from paris, Full Stack Developer with a passion for music, foreign languages, and JavaScript ( so much frameworks and libraries, so much possibilities 😄 ).
 
 🌱 Currently learning and exploring new technologies in the JS eco-system
 
