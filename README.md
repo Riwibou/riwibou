@@ -1,11 +1,7 @@
 ### Hi there! 👋
 
 I'm Riwan William BOUOULI,
-
-
 a French guy from Paris, Full Stack Developer Node/React with a many passions:
-
-
 music, foreign languages, and JavaScript ( so much frameworks and libraries, so much possibilities 😄 ).
 
 🌱 Currently learning and exploring new technologies in the JS eco-system
